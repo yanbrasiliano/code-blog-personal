@@ -8,7 +8,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CodeEnd - Tec Blog</title>
+  <title>CodeEnder - Tec Blog</title>
   <!-- ESTILOS DO PROJETO -->
   <link rel="stylesheet" href="<?= $BASE_URL ?>/css/style.css">
 	</header>	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -18,8 +18,8 @@
 </head>
 <body>
   <header>
-    <a href="<?= $BASE_URL ?>" id="logo">
-      <img src="<?= $BASE_URL ?>/img/logo.svg" alt="Blog Codar">
+    <a href=" index.php" id="logo">
+      <img src="<?= $BASE_URL ?>/img/logo.svg" alt="CodeEnder Blog">
     </a>
     <nav>
       <ul id="navbar">
