@@ -1,4 +1,4 @@
-<h1> CoderEnder - Scpe the blog tec blog. </h1>
+<h1> CoderEnder - Scope tec blog. </h1>
 <p>Responsive scope for a technology-themed news blog. Stack: PHP + HTML + CSS. </p>
 <br>
 
